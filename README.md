@@ -1,2 +1,2 @@
-# alura-bootstap
-Projeto feito com as aula da alura
+# arquitetura-css
+curso de arquitetura da Alura. 
